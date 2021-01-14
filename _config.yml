@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Koç AI Movement
-email: your-email@example.com
+email: kocaimovement@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Buraya açıklama ekle
+  Koç Lisesi Yapay Zeka Takımı olarak bu tatil süresince yapay zekaya giriş dersleri ve temel programlamaya giriş müfredatı hazırladık. 
 baseurl: "mufredat" # the subpath of your site, e.g. /blog
 url: "https://denizkavi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: jekyllrb
+instagram_username: kocaimovement
 github_username:  denizkavi
 
 # Build settings
