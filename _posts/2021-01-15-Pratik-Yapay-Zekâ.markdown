@@ -26,7 +26,7 @@ Program Sonunda Öğrenecekleriniz:
 - Temel Python programlama bilgisi
 - Yapay zeka geliştirmek için kullanılan araçlar(Pandas, Numpy vb.)
 - Makine öğrenmesinde kullanılan algoritmalar
-- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz                                                                                                                                                                   
+- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz araç                                                                                                                                                                   
 
 ### Hafta 1: Yapay Zekâ’ya Giriş ve Teachable Machine Kullanımı
 
