@@ -2,10 +2,10 @@
 layout: post
 title:  "Pratik Yapay Zekâ"
 date:   2021-01-14 12:49:04 +0300
-categories: jekyll update
+categories: 
 ---
 
-3 haftalık uzun bir tatilimiz var ve bu zamanı verimli geçirmek bizim elimizde. Biz Koç Lisesi Yapay Zeka Takımı olarak bu tatil süresince yapay zekaya giriş dersleri ve temel programlamaya giriş müfredatı hazırladık. Aşağıda müfredatı bulabilirsiniz.
+3 haftalık uzun bir tatilimiz var ve bu zamanı verimli geçirmek bizim elimizde. Biz Koç Lisesi Yapay Zeka Takımı olarak bu tatil süresince yapay zekaya giriş dersleri ve temel programlamaya giriş müfredatı hazırladık. Aşağıda müfredatı bulabilirsiniz. Her salı ve cuma günü saat 17'de buluşuyoruz
 
 Gereksinimler:
 
