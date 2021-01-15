@@ -14,6 +14,9 @@ Meeting ID: 948 7974 4203
 
 Passcode: 12SEZk
 
+### Kayıt Linki: 
+https://forms.gle/DwPfR7dFzxVz5kr4A
+
 Gereksinimler:
 
 - Programlama veya yapay zeka hakkında bilgi gerekmiyor. 
@@ -26,7 +29,7 @@ Program Sonunda Öğrenecekleriniz:
 - Temel Python programlama bilgisi
 - Yapay zeka geliştirmek için kullanılan araçlar(Pandas, Numpy vb.)
 - Makine öğrenmesinde kullanılan algoritmalar
-- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz araç                                                                                                                                                                   
+- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz araç
 
 ### Hafta 1: Yapay Zekâ’ya Giriş ve Teachable Machine Kullanımı
 
