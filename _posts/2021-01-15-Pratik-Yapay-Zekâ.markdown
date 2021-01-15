@@ -15,7 +15,7 @@ Meeting ID: 948 7974 4203
 Passcode: 12SEZk
 
 ### Kayıt Linki: 
-https://forms.gle/DwPfR7dFzxVz5kr4A
+[https://forms.gle/DwPfR7dFzxVz5kr4A](https://forms.gle/DwPfR7dFzxVz5kr4A)
 
 Gereksinimler:
 
