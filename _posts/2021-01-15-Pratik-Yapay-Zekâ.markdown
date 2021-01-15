@@ -14,6 +14,11 @@ Meeting ID: 948 7974 4203
 
 Passcode: 12SEZk
 
+Gereksinimler:
+
+- Programlama veya yapay zeka hakkında bilgi gerekmiyor. 
+- Sadece, biraz merak ve öğrenme arzusu bu süreci verimli hale getirecektir.
+
 Program Sonunda Öğrenecekleriniz:
 
 - Yapay zekanın temelinde yatan mantık ve kullanım alanları
@@ -21,7 +26,7 @@ Program Sonunda Öğrenecekleriniz:
 - Temel Python programlama bilgisi
 - Yapay zeka geliştirmek için kullanılan araçlar(Pandas, Numpy vb.)
 - Makine öğrenmesinde kullanılan algoritmalar
-- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz
+- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz                                                                                                                                                                   
 
 ### Hafta 1: Yapay Zekâ’ya Giriş ve Teachable Machine Kullanımı
 
