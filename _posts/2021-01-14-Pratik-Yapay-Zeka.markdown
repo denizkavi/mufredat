@@ -25,7 +25,7 @@ Program Sonunda Öğrenecekleriniz:
 
 Bu hafta Teachable Machine adlı yapay zeka aracını kullanarak sınıflandırma modelleri yapmayı öğreneceğiz. 
 
-#### **Buluşma 1(26 Ocak Saat 17)** 
+#### **Buluşma 1 (26 Ocak Saat 17)** 
 [Nasıl?](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4) [1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67EQ0ZWgA) [3](https://youtu.be/n-zeeRLBgd0) <br />
 [Örnek Proje](https://youtu.be/ydzJPeeMiMI)
 
@@ -38,22 +38,22 @@ Genel sohbet, sizin projeleriniz
 
 Bu hafta Python diline giriş yaparak programlama öğreneceğiz. 
 
-#### **Buluşma 1(2 Şubat Saat 17)**
+#### **Buluşma 1 (2 Şubat Saat 17)**
 [Python'a Giriş(İlk 2 saat)](https://youtu.be/rfscVS0vtbw)
 
-#### **Buluşma 2(5 Şubat Saat 17)**
+#### **Buluşma 2 (5 Şubat Saat 17)**
 [Python'a Devam (Kalan Süre)](https://youtu.be/rfscVS0vtbw)
 
 ### Hafta 3: Pandas ve Veri Analizi <br />
 
 Bu hafta Python'un pandas kütüphanesini kullanarak veri analizi ve veri işlemeyi öğreneceğiz.
 
-#### **Buluşma 1(9 Şubat Saat 17)**
+#### **Buluşma 1 (9 Şubat Saat 17)**
 Colab Kullanımı <br />
 [Pandas 1 (8. dakikadan itibaren)](https://youtu.be/ZyhVh-qRZPA) <br />
 [Pandas 2](https://youtu.be/zmdjNSmRXF4)
 
-#### **Buluşma 2(12 Şubat Saat 17)**
+#### **Buluşma 2 (12 Şubat Saat 17)**
 
 Pandas Alıştırmaları, bitirme projesi hakkında bilgilendirme 
 
