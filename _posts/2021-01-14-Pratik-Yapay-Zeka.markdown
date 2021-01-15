@@ -47,7 +47,7 @@ Colab Kullanımı <br />
 
 #### **Buluşma 2**
 
-Pandas Alıştırmaları
+Pandas Alıştırmaları, bitirme projesi hakkında bilgilendirme 
 
 ### Hafta 4: Fast.ai <br />
 
