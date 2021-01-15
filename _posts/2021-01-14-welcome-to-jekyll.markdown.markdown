@@ -6,10 +6,8 @@ categories: jekyll update
 ---
 
 
-### 
-Tanıtım: Programın ve içeriğin tanıtımı, 
-22 Ocak Cuma günü, Saat 19.00: 
-
+ 
+### Tanıtım: Programın ve içeriğin tanıtımı, 22 Ocak Cuma günü, Saat 19.00: 
 [https://zoom.us/j/94879744203?pwd=N2ZtMmN3SVI3dkQzZnNMR29TR2xiQT09](https://zoom.us/j/94879744203?pwd=N2ZtMmN3SVI3dkQzZnNMR29TR2xiQT09)
 
 Meeting ID: 948 7974 4203
