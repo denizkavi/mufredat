@@ -22,6 +22,8 @@ Genel sohbet, sizin projeleriniz
 
 ### Hafta 2: Python ve Programlama <br />
 
+Bu hafta Python diline giriş yaparak programlama öğreneceğiz. 
+
 #### **Buluşma 1**
 [Python'a Giriş(İlk 2 saat)](https://youtu.be/rfscVS0vtbw)
 
@@ -30,14 +32,19 @@ Genel sohbet, sizin projeleriniz
 
 ### Hafta 3: Pandas ve Veri Analizi <br />
 
+Bu hafta Python'un pandas kütüphanesini kullanarak veri analizi ve veri işlemeyi öğreneceğiz.
+
 #### **Buluşma 1**
 Colab Kullanımı <br />
 [Pandas 1 (8. dakikadan itibaren)](https://youtu.be/ZyhVh-qRZPA) <br />
 [Pandas 2](https://youtu.be/zmdjNSmRXF4)
 
 #### **Buluşma 2**
-??
+
+Pandas Alıştırmaları
+
 ### Hafta 4: Fast.ai <br />
 
+Bu hafta Fast.ai kütüphanesiyle yapay zeka'ya pratik bir giriş yapacağız. 
 [Fast.ai 1](https://course.fast.ai/videos/?lesson=1)
 
