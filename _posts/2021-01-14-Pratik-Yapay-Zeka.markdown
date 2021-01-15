@@ -12,6 +12,14 @@ Gereksinimler:
 - Programlama veya yapay zeka hakkında bilgi gerekmiyor. 
 - Sadece, biraz merak ve öğrenme arzusu bu süreci verimli hale getirecektir.
 
+Program Sonunda Öğrenecekleriniz:
+
+- Yapay zekanın temelinde yatan mantık ve kullanım alanları
+- Yapay Zeka ve Etik
+- Temel Python programlama bilgisi
+- Yapay zeka geliştirmek için kullanılan araçlar(Pandas, Numpy vb.)
+- Makine öğrenmesinde kullanılan algoritmalar
+- Kendi yapay zeka projelerinizi gerçekleştirebileceğiniz araçlar
 
 ### Hafta 1: Yapay Zekâ'ya Giriş ve Teachable Machine Kullanımı <br />
 
