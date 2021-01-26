@@ -47,8 +47,7 @@ Nasıl Kullanılır: [1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67
 [Kaggle verisetleri](https://www.kaggle.com/datasets?tags=13207-Computer+Vision)
 [Diğer örnek verisetler](https://lionbridge.ai/datasets/top-10-image-classification-datasets-for-machine-learning/)
 
-[Örnek Proje](https://youtu.be/ydzJPeeMiMI)
-
+[Chrome'dan toplu görsel indirme eklentisi](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed)
 
 **Ödev:** Buluşma 2’ye kadar Teachable Machine kullanarak bir proje yapın!
 
