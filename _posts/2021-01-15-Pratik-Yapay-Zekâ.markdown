@@ -36,7 +36,7 @@ Program Sonunda Öğrenecekleriniz:
 Bu hafta yapay zeka konusuna giriş niteliğinde olup Teachable Machine adlı yapay zeka aracını kullanarak sınıflandırma modelleri yapmayı öğreneceğiz. 
 
 
-#### **Buluşma 1 - 26 Ocak Salı 5.00 - 6.30**
+#### **Buluşma 1 - 26 Ocak Salı 18.30 - 20**
 
 Tanışmayla başlayarak yapay zekaya sıcağı sıcağına giriş Teachable Machine platformu üzerinden giriş yaparak ilk yapay zeka projemizi başlatmış olacağız. 
 
@@ -51,7 +51,7 @@ Tanışmayla başlayarak yapay zekaya sıcağı sıcağına giriş Teachable Mac
 **Ödev:** Buluşma 2’ye kadar Teachable Machine kullanarak bir proje yapın!
 
 
-#### **Buluşma 2 -  29 Ocak Cuma 5.00 - 6.30**
+#### **Buluşma 2 -  29 Ocak Cuma 18.30 - 20**
 
 Buluşma 1’de verilen Teachable Machine projeleriniz hakkında konuşarak buluşmaya başlayacağız. Devamında yapay zeka ve etik, yapay zekanın kullanım alanları ve kariyer hedefleri üzerine genel bir anlamda yapay zekanın günümüzdeki konumunu inceleyeceğiz.
 
@@ -63,14 +63,14 @@ Bu hafta Python diline giriş yaparak programlama öğreneceğiz. Fonksiyonlar, 
 *Programlama konusunda ön bilgisi olanlara 2. hafta ayrı bir program uygulayacağız.
 
 
-#### **Buluşma 1 -  2 Şubat Salı 5.00 - 6.30**
+#### **Buluşma 1 -  2 Şubat Salı 18.30 - 20**
 
 Python Eğitimi
 
 [Python’a Giriş(İlk 2 saat)](https://youtu.be/rfscVS0vtbw)
 
 
-#### **Buluşma 2 -  5 Şubat Cuma 5.00 - 6.30**
+#### **Buluşma 2 -  5 Şubat Cuma 18.30 - 20**
 
 Python Eğitimi
 
@@ -82,7 +82,7 @@ Python Eğitimi
 Bu hafta Python’un pandas kütüphanesini kullanarak veri analizi ve veri işlemeyi öğreneceğiz. 
 
 
-#### **Buluşma 1 -  9 Şubat Salı 5.00 - 6.30**
+#### **Buluşma 1 -  9 Şubat Salı 18.30 - 20**
 
 Colab Kullanımı
 
@@ -91,7 +91,7 @@ Colab Kullanımı
 [Pandas 2](https://youtu.be/zmdjNSmRXF4)
 
 
-#### **Buluşma 2 -  12 Şubat Cuma 5.00 - 6.30**
+#### **Buluşma 2 -  12 Şubat Cuma 18.30 - 20**
 
 Pandas Alıştırmaları, bitirme projesi hakkında bilgilendirme
 
@@ -107,10 +107,10 @@ Bu hafta Fast.ai kütüphanesiyle yapay zeka’ya pratik bir giriş yapacağız.
 *   Eğitim bitirme projenizin planlanması ve başlangıcı(Projeniz konusunda mentörlük sağlayacağız.)
 
 
-#### **Buluşma 1 -  16 Şubat Salı 5.00 - 6.30**
+#### **Buluşma 1 -  16 Şubat Salı 18.30 - 20**
 
 
-#### **Buluşma 2 -  19 Şubat Cuma 5.00 - 6.30**
+#### **Buluşma 2 -  19 Şubat Cuma 18.30 - 20**
 
 Kapanış: 20 Şubat Cumartesi: 19.00 - 19.40
 
