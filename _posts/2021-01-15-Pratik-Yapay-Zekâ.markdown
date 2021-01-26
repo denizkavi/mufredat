@@ -43,7 +43,7 @@ Tanışmayla başlayarak yapay zekaya sıcağı sıcağına giriş Teachable Mac
 [1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67EQ0ZWgA) [3](https://youtu.be/n-zeeRLBgd0)
 
 [Kaggle verisetleri](https://www.kaggle.com/datasets?tags=13207-Computer+Vision)
-[Diğer örnek verisetleri](https://lionbridge.ai/datasets/top-10-image-classification-datasets-for-machine-learning/)
+[Diğer örnek verisetler](https://lionbridge.ai/datasets/top-10-image-classification-datasets-for-machine-learning/)
 
 [Örnek Proje](https://youtu.be/ydzJPeeMiMI)
 
