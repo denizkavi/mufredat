@@ -40,9 +40,13 @@ Bu hafta yapay zeka konusuna giriş niteliğinde olup Teachable Machine adlı ya
 
 Tanışmayla başlayarak yapay zekaya sıcağı sıcağına giriş Teachable Machine platformu üzerinden giriş yaparak ilk yapay zeka projemizi başlatmış olacağız. 
 
-[Nasıl?](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4) [1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67EQ0ZWgA) [3](https://youtu.be/n-zeeRLBgd0)
+[1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67EQ0ZWgA) [3](https://youtu.be/n-zeeRLBgd0)
+
+[Kaggle verisetleri](https://www.kaggle.com/datasets?tags=13207-Computer+Vision)
+[Diğer örnek verisetleri](https://lionbridge.ai/datasets/top-10-image-classification-datasets-for-machine-learning/)
 
 [Örnek Proje](https://youtu.be/ydzJPeeMiMI)
+
 
 **Ödev:** Buluşma 2’ye kadar Teachable Machine kullanarak bir proje yapın!
 
