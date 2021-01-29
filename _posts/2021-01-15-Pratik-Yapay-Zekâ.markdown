@@ -54,8 +54,11 @@ Nasıl Kullanılır: [1](https://youtu.be/DFBbSTvtpy4) [2](https://youtu.be/CO67
 
 #### **Buluşma 2 -  29 Ocak Cuma 18.30 - 20**
 
-Buluşma 1’de verilen Teachable Machine projeleriniz hakkında konuşarak buluşmaya başlayacağız. Devamında yapay zeka ve etik, yapay zekanın kullanım alanları ve kariyer hedefleri üzerine genel bir anlamda yapay zekanın günümüzdeki konumunu inceleyeceğiz.
+Programlama'ya giriş!
 
+[Python (İlk 1.5 saat)](https://youtu.be/rfscVS0vtbw)
+
+[Online IDE](https://www.programiz.com/python-programming/online-compiler/)
 
 ### Hafta 2: Python ve Programlama
 
